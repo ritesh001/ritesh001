@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ritesh Kumar
 - 👀 I’m interested in developing computational utilities for materials science applications
 - 🌱 I’m currently honing skills related to machine learning and deep learning (especially generative models and RL)
-- 💞️ I’m looking to collaborate on the topics related to my research area
+- 💞️ I’m looking to collaborate on the topics related to my research areas
 - 📫 Reach me at ritesk@iisc.ac.in or riteshchemiisc@gmail.com
 
 <!---
