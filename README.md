@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ritesh Kumar
 - 👀 I’m interested in developing computational utilities for materials science applications
-- 🌱 I’m currently developing skills related machine learning, deep learning
-- 💞️ I’m looking to collaborate on my research area
-- 📫 How to reach me ritesk@iisc.ac.in
+- 🌱 I’m currently honing skills related to machine learning and deep learning (especially generative models and RL)
+- 💞️ I’m looking to collaborate on the topics related to my research area
+- 📫 Reach me at ritesk@iisc.ac.in or riteshchemiisc@gmail.com
 
 <!---
 ritesh001/ritesh001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
